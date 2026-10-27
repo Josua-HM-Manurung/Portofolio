@@ -9,6 +9,13 @@ Josua HM Manurung — Portfolio
 <p align="center">
   Personal portfolio showcasing my skills, experience, projects, and achievements in Cloud Computing, Networking, and Web Development.
 </p>
+## 🎬 Portfolio Website Demo
+
+Watch the video walkthrough of my personal portfolio website.
+
+[![Portfolio Website Demo](screenshots/portfolio-preview.png)](videoweb.mp4)
+
+[▶ Watch Portfolio Demo](videoweb.mp4)
 
 About Me
 
