@@ -1,70 +1,60 @@
-Josua HM Manurung — Portfolio
+
+# Josua HM Manurung — Portfolio
 
 <p align="center">
-  <img src="screenshots/portfolio-preview.png" alt="Josua HM Manurung Portfolio Website" width="100%">
+  <a href="https://github.com/Josua-HM-Manurung/Portofolio/blob/main/videoweb.mp4">
+    <img src="https://raw.githubusercontent.com/Josua-HM-Manurung/Portofolio/main/public/portfolio-preview.png" alt="Josua HM Manurung Portfolio Website" width="100%">
+  </a>
 </p>
 
 <h2 align="center">Software Developer Portfolio</h2>
 
 <p align="center">
-  Personal portfolio showcasing my skills, experience, projects, and achievements in Cloud Computing, Networking, and Web Development.
+  Cloud, Network, and Web Developer Engineer passionate about cloud infrastructure, enterprise networking, and modern web applications.
 </p>
-## 🎬 Portfolio Website Demo
 
-Watch the video walkthrough of my personal portfolio website.
+<p align="center">
+  <a href="https://github.com/Josua-HM-Manurung/Portofolio/blob/main/videoweb.mp4">▶ Watch Portfolio Demo</a>
+</p>
 
-[![Portfolio Website Demo](screenshots/portfolio-preview.png)](videoweb.mp4)
+---
 
-[▶ Watch Portfolio Demo](videoweb.mp4)
+## About Me
 
-About Me
+Hi, I'm **Josua HM Manurung**, a Cloud, Network, and Web Developer Engineer interested in designing, implementing, and managing cloud infrastructure, enterprise networking, and modern web applications.
 
-Hi, I'm Josua HM Manurung, a passionate Cloud, Network, and Web Developer Engineer with an interest in designing, implementing, and managing cloud infrastructure, enterprise networking, and modern web applications.
+This portfolio showcases my technical skills, professional experience, projects, achievements, and development journey.
 
-This portfolio presents my technical background, projects, skills, and professional journey.
+## Portfolio Sections
 
-Portfolio Sections
+- About Me
+- Skills
+- Work Experiences
+- Achievements
+- Blogs
+- Resume
+- Contact Me
 
-About Me
+## Technologies
 
-Skills
+This portfolio is based on the DeveloperFolio template and has been customized to showcase my personal profile and technical experience.
 
-Work Experiences
+See `package.json` for the project's dependencies and scripts.
 
-Achievements
-
-Blogs
-
-Resume
-
-Contact Me
-
-Technologies
-
-This portfolio is built using the DeveloperFolio template and customized to represent my personal profile and experience.
-
-The project uses the technologies and dependencies defined in its source code and package.json.
-
-Run Locally
+## Run Locally
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Josua-HM-Manurung/Portofolio.git
 cd Portofolio
-
-Install dependencies:
-
 npm install
-
-Start the development server:
-
 npm start
+```
 
-Follow the terminal output to open the portfolio in your browser.
+## Repository
 
-Repository
-
-GitHub: Josua-HM-Manurung/Portofolio
+[View the source code on GitHub](https://github.com/Josua-HM-Manurung/Portofolio)
 
 <p align="center">
   Made by <strong>Josua HM Manurung</strong>
